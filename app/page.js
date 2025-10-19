@@ -1,0 +1,1 @@
+{"import":["/components/Layout"],"pages":{"/">{"component":"ChatBotPage"},"/api":["/api/handler"]},"routes":(){"/ChatBotPage}:{"path":"/","component":"ChatBotPage"},"ChatBotPage":(){"use":"ChatBot"}}
